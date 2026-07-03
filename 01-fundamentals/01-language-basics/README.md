@@ -1,5 +1,3 @@
-# 01 - Fundamentals
-
 ## Overview
 
 This section introduces the core building blocks of Elixir. Before diving into OTP, GenServer, distributed systems, and backend development, it is important to understand the language fundamentals and the functional programming mindset that Elixir is built upon.
